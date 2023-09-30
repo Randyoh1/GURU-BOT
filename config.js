@@ -9,12 +9,12 @@ import axios from 'axios'
 global.owner = [
   ['17243940714', 'Randy', true],
   ['254727081092', 'Randy', true], 
-  [''] 
+  ['254727081092',  'randy'  true], 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['17243940714','32460248586'] 
+global.mods = ['17243940714','254727081092'] 
 global.prems = ['17243940714', '17243940714', '17243940714']
 global.allowed = ['17243940714', '17243940714', '17243940714']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'Randy'
 global.premium = 'true'
 global.packname = 'Randy🥵┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
